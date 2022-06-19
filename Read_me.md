@@ -2,4 +2,4 @@
 
 ## It's first messege from Me
 
-## It's messege form my friend
+## It's messege form my friends
